@@ -12,6 +12,8 @@
 
 
 2.Чтобы выполнить ход нажмите на одну из пустых ячеек.
+
+
 <img width="414" height="461" alt="image" src="https://github.com/user-attachments/assets/30dd7283-4f21-45a0-b1ae-c296bea08d95" />
 
 
